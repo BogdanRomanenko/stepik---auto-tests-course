@@ -1,2 +1,2 @@
-# stepik---auto-tests-course
+# stepik-auto_tests_course
 homeworks
